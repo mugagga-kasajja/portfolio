@@ -23,12 +23,11 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 200px;
 }
 
-#particles-js {
-  background-image: url(/images/d7.jpg); color: aqua;
+/* #particles-js {
+  background-image: url(.jpg); color: aqua;
   background-size: cover;
   height: 955px;
-  
-}
+} */
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -214,7 +213,7 @@ h1, h2, h3, h4, h5, h6 {
 #landing {
   width: 100%;
   height: 100vh;
-  background: url("/public/images/pic2.jpg") top center;
+  background: url("/public/images/cover.jpg") top center;
   background-size: cover;
 }
 
@@ -902,7 +901,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #149ddd;
+  background: #152e3a;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -911,7 +910,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #37b3ed;
+  background: #175a5a;
 }
 
 @-webkit-keyframes animate-loading {
